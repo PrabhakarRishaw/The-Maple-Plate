@@ -79,7 +79,3 @@ Once initialized, navigate to `http://127.0.0.1:8000/` in your web browser to vi
 * *B.Tech in Computer Science & Engineering*
 * *Arya College of Engineering and IT*
 
-
-3. **Clean Folder Structure:** Aapka project layout kaisa dikhta hai, use tree-structure mein define kiya hai.
-
-```
